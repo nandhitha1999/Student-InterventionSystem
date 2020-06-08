@@ -48,6 +48,8 @@ This project requires **Python 2.7.15** and the following Python libraries insta
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
+-----
+
 #### Execution
 
 In a terminal or command window, navigate to the top-level project directory `Student-InterventionSystem/` and run one of the following commands:
