@@ -4,6 +4,7 @@
 
 * In the classroom, interventions are activities that you would use to help students become successful in their classwork or decrease negative behavior towards others.
 * The greatest benefit of an the intervention approach is that it eliminates a “wait to fail” situation because students get help promptly within the general education setting. As soon as assessment data indicates a problem area for a student or a group of students, interventions are put into place to address these concerns.
+* It's important for schools to focus on intensive interventions because it gives an opportunity for the schools to figure out ways to serve their neediest students.
 
 Nowadays, we have access to a vast amount of data regarding to Students and their activities. Logs of student activities, grades, interactions with teachers and fellow students, and more are now captured in real time through various learning management systems.  Especially it is true for online classrooms, which are becoming popular even at the primary and secondary school level. Within all levels of education, there exists a push to help increase the likelihood of student success for their betterment. Graduation rates are often the criteria of choice, and educators seek new ways to predict the success and failure of students early enough to stage effective interventions.
 
