@@ -90,3 +90,17 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 #### Furthur Additions 
 In the future, we will try to build a recommendation system which will be able to suggest some of the intervention strategies that can be used to engage the students and help them to advance in their performance.
 
+-----
+
+#### NOTE:
+* Clone or download the repository
+
+
+* Tag me incase of using the data
+
+
+* Tag me to use the above notebook's code for improvising
+If you find my work good, useful and interesting, Be kind to star my work
+
+### THANKYOU :)
+
