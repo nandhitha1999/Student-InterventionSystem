@@ -50,7 +50,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 #### Execution
 
-In a terminal or command window, navigate to the top-level project directory `Student-Intervention/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Student-InterventionSystem/` and run one of the following commands:
 
 ```bash
 ipython notebook report.ipynb
