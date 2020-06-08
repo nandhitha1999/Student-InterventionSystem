@@ -1,5 +1,9 @@
 # Student Intervention System - Machine Learning
 
+* In the classroom, interventions are activities that you would use to help students become successful in their classwork or decrease negative behavior towards others.
+* The greatest benefit of an the intervention approach is that it eliminates a “wait to fail” situation because students get help promptly within the general education setting. As soon as assessment data indicates a problem area for a student or a group of students, interventions are put into place to address these concerns.
+* It's important for schools to focus on intensive interventions because it gives an opportunity for the schools to figure out ways to serve their neediest students.
+
 #### Dataset file
 The dataset used in this project is included as `student data.csv`. The dataset has the following attributes:
 
